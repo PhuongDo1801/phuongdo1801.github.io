@@ -1,0 +1,28 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+h1, h3 {
+	color: #333;
+}
+
+.social-links a {
+	margin-right: 10px;
+	font-size: 20px;
+	color: #333;
+}
+
+.social-links a:hover {
+	color: #007bff;
+}
+
+sup {
+    font-size: 0.6em;
+    position: relative;
+    top: -0.5em;
+}
